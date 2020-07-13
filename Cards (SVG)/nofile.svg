@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="card"
+   face="0S"
+   height="3.5in"
+   preserveAspectRatio="none"
+   viewBox="-120 -168 240 336"
+   width="2.5in"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="nofile.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs32" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="2.1221115"
+     inkscape:cx="120"
+     inkscape:cy="168"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <symbol
+     id="SS0"
+     viewBox="-600 -600 1200 1200"
+     preserveAspectRatio="xMinYMid">
+    <path
+       d="M0 -500C100 -250 355 -100 355 185A150 150 0 0 1 55 185A10 10 0 0 0 35 185C35 385 85 400 130 500L-130 500C-85 400 -35 385 -35 185A10 10 0 0 0 -55 185A150 150 0 0 1 -355 185C-355 -100 -100 -250 0 -500Z"
+       fill="black"
+       id="path2" />
+  </symbol>
+  <symbol
+     id="VS0"
+     viewBox="-500 -500 1000 1000"
+     preserveAspectRatio="xMinYMid">
+    <path
+       d="M-175 0L-175 -285A175 175 0 0 1 175 -285L175 285A175 175 0 0 1 -175 285Z"
+       stroke="black"
+       stroke-width="80"
+       stroke-linecap="square"
+       stroke-miterlimit="1.5"
+       fill="none"
+       id="path5" />
+  </symbol>
+  <rect
+     width="239"
+     height="335"
+     x="-119.33666"
+     y="-167.25746"
+     rx="12"
+     ry="12"
+     id="rect8"
+     style="fill:#ffffff;stroke:#000000" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Symbola;-inkscape-font-specification:Symbola;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="-68.745758"
+       y="26.983051"
+       id="text843"><tspan
+         sodipodi:role="line"
+         id="tspan841"
+         x="-68.745758"
+         y="26.983051"
+         style="font-size:96px">???</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Symbola;-inkscape-font-specification:Symbola;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="-65.506989"
+       y="-129.34535"
+       id="text847"><tspan
+         sodipodi:role="line"
+         id="tspan845"
+         x="-65.506989"
+         y="-129.34535">No File</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Symbola;-inkscape-font-specification:Symbola;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="-117.17262"
+       y="102.97042"
+       id="text867"><tspan
+         sodipodi:role="line"
+         id="tspan865"
+         x="-117.17262"
+         y="102.97042">This card has</tspan><tspan
+         sodipodi:role="line"
+         x="-117.17262"
+         y="152.97043"
+         id="tspan869">no image.</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Symbola;-inkscape-font-specification:Symbola;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="-107.74805"
+     y="139.72626"
+     id="text863"><tspan
+       sodipodi:role="line"
+       id="tspan861"
+       x="-107.74805"
+       y="173.94043" /></text>
+</svg>
